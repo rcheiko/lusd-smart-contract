@@ -1,4 +1,5 @@
-# This repository contains the smart contracts of the LUSDC Protocol
+# Ledgity DeFi Protocol
+This repository contains the smart contracts of the Ledgity DeFi Protocol
 - Token LUSDC
 - Swap to buy USDC - LUSDC for 1 / 1
 
