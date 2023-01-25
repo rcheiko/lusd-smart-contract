@@ -10,6 +10,6 @@ The Ledgity DeFi Protocol is a place where you can lend USDC and start earning y
 Soon !
 
 # Social Media
-Twitter : https://twitter.com/LedgityPlatform
-Telegram : https://t.me/ledgityapp
-Linkedin : https://www.linkedin.com/company/ledgity/
+- Twitter : https://twitter.com/LedgityPlatform
+- Telegram : https://t.me/ledgityapp
+- Linkedin : https://www.linkedin.com/company/ledgity/
